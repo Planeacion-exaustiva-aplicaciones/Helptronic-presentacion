@@ -6,6 +6,9 @@ Ingenieria :Electronica y Telecomunicaciones
  * Ana Karen Gomez Solis 
  * Edwin Orozco Medina 
  * Oscar Cayetano Caballero Leon 
+**********************************************************************
+Horario de trabajo 
+* Reuniones: Lunes para asignar trabajos y verificar errores y pruebas del proyectos
 *******************************************************
 # Titulo del proyecto
 Helptronic
