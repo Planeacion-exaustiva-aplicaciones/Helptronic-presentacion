@@ -19,6 +19,8 @@ Determinar nustras bases del proyecto
  * Usabilidad 
  * Hipotesis
  * Justificación
+ * Estad del arte 
+ - Buscar las mejoras de nuestra aplicacion y lo q nos falto de ver en algunos cuatrimestres como complemento -
  * Reparto de temas 
  ****************************************************************
  # software a utilizar 
