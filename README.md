@@ -35,7 +35,7 @@ Determinar nustras bases del proyecto
    *Oganizacion de ensamble 
    * Diseño de la aplicación 
    * Seguimiento por cuatrimestre
-   * Concejos y temas complemetarios a cada cuatrimestre
+   * Consejos y temas complemetarios a cada cuatrimestre
    * Colorometria 
    * Subrepartos
    * Programacion (prueba error)
