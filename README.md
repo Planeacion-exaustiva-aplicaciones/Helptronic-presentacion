@@ -13,18 +13,24 @@ Helptronic
 # Desarrollo del proyecto
 Aplicacion para el desarrollo academico de futuras generaciones en la carrera. 
 ***********************************************************
-* La primera parte 
+# La primera parte 
 Determinar nustras bases del proyecto
  * Objetivos
  * Usabilidad 
  * Hipotesis
  * Justificación
  * Reparto de temas 
- * Desicion de software para programar 
  ****************************************************************
- * Segunda parte 
- Oganizacion de ensamble 
- * Diseño de la aplicación 
- * Colorometria 
- * Subrepartos
- * Programacion (prueba error)
+ # software a utilizar 
+ * Android studio
+ * Visual studio 
+ 
+ ****************************************************************
+ # Segunda parte 
+   *Oganizacion de ensamble 
+   * Diseño de la aplicación 
+   * Seguimiento por cuatrimestre
+   * Concejos y temas complemetarios a cada cuatrimestre
+   * Colorometria 
+   * Subrepartos
+   * Programacion (prueba error)
