@@ -1,16 +1,16 @@
 # Helptronic-presentacion-Plan de trabajo 
-##Universidad Politecnica de Tulancingo 
+## Universidad Politecnica de Tulancingo 
 Ingenieria :Electronica y Telecomunicaciones 
 ********************************************************
-#Integrantes del equipo:
+# Integrantes del equipo:
  *Ana Karen Gomez Solis 
  *Edwin Orozco Medina 
- *Cayetano Caballero Leon 
+ *Oscar Cayetano Caballero Leon 
 *******************************************************
-#Titulo del proyecto
+# Titulo del proyecto
 Helptronic
 ********************************************************
-#Desarrollo del proyecto
+# Desarrollo del proyecto
 Aplicacion para el desarrollo academico de futuras generaciones en la carrera. 
-##Primera parte 
+* La primera parte 
 Los pasos a seguir para el desarrollo de la misma se adjunta en la siguiente presentacion.
