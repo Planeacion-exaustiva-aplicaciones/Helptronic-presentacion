@@ -1,4 +1,4 @@
-# Helptronic-presentacion-Plan de trabajo 
+# Helptronic-presentacion-Plan de trabajo ![alt text](http://url/to/ti.png)
 ## Universidad Politecnica de Tulancingo 
 Ingenieria :Electronica y Telecomunicaciones 
 ********************************************************
