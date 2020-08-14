@@ -3,7 +3,7 @@ _Helptronic _
 ## Presentación🚀
 _Estas instrucciones te permitirán obtener una guia del proyecto con propósito de desarrollo y pruebas._
 ## Universidad Politecnica de Tulancingo 
-Ingenieria :Electronica y Telecomunicaciones 
+Ingenieria: Electronica y Telecomunicaciones 
 ********************************************************
 # Integrantes del equipo 🤓 🤓 🤓:✒️
  * Ana Karen Gomez Solis 
@@ -17,13 +17,13 @@ Ingenieria :Electronica y Telecomunicaciones
 _Aplicacion para el desarrollo academico de futuras generaciones en la carrera. _
 
 # La primera parte 📋
-Determinar nustras bases del proyecto
-  📌 Objetivos
-  📌 Usabilidad 
-  📌 Hipotesis
-  📌Justificación
-  📌Estad del arte 
-📄 - Buscar las mejoras de nuestra aplicacion y lo q nos falto de ver en algunos cuatrimestres como complemento -
+Determinar nuestras bases del proyecto
+  *📌 Objetivos
+  *📌 Usabilidad 
+  *📌 Hipotesis
+  *📌Justificación
+  *📌Estado del arte 
+📄 - Buscar las mejoras de nuestra aplicación y lo que nos falto de ver en algunos cuatrimestres como complemento -
  * Reparto de temas 📖
  ****************************************************************
  ### Instalación de los siguientes softwares 🔧 
@@ -32,11 +32,11 @@ Determinar nustras bases del proyecto
  
  ****************************************************************
  # Segunda parte 🔩
-   *Oganizacion de ensamble 🖇️
+   *Oganización de ensamble 🖇️
    * Diseño de la aplicación 
    * Seguimiento por cuatrimestre
    * Consejos y temas complemetarios a cada cuatrimestre
    * Colorometria 
    * Subrepartos
-   * Programacion (prueba error)
+   * Programación (prueba error)
   ### Ensamble de aplicación  🛠️
