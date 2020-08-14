@@ -1,5 +1,5 @@
 # Helptronic-presentacion-Plan de trabajo ![alt text](http://url/to/ti.png)
-## Universidad Politecnica de Tulancingo 
+## Universidad Politecnica de Tulancingo ![alt text](http://url/to/img_LogoUPT_Nosotros.png)
 Ingenieria :Electronica y Telecomunicaciones 
 ********************************************************
 # Integrantes del equipo:
