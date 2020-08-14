@@ -37,6 +37,6 @@ Determinar nuestras bases del proyecto
    * Seguimiento por cuatrimestre
    * Consejos y temas complemetarios a cada cuatrimestre
    * Colorometria 
-   * Subrepartos
+   * Sub-repartos
    * Programación (prueba error)
   ### Ensamble de aplicación  🛠️
