@@ -1,7 +1,7 @@
 # Título del Proyecto
 _Helptronic _
 ## Presentación🚀
-Este proyecto es una aplicación en la cual tenemos la vision que sea una herramienta de estudios y de trabajo en la cual salgan beneficiados los alumnos de la carrera y los profesores.
+Este proyecto es una aplicación en la cual tenemos la vision que sea una herramienta de estudios y de trabajo ,la cual brinde una ayuda a los alumnos de la carrera y los profesores.Sirviendo como guia y apoyo
 ## Universidad Politecnica de Tulancingo 
 Ingenieria: Electronica y Telecomunicaciones 
 ********************************************************
