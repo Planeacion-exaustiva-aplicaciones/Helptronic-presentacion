@@ -1,6 +1,5 @@
 # Título del Proyecto
 _Helptronic _
-_Estas instrucciones te permitirán obtener una guia del proyecto con propósito de desarrollo y pruebas._
 ## Presentación🚀
 Este proyecto es una aplicación en la cual tenemos la vision que sea una herramienta de estudios y de trabajo en la cual salgan beneficiados los alumnos de la carrera y los profesores.
 ## Universidad Politecnica de Tulancingo 
